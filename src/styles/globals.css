@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: "Fraunces";
+    src: url("/fonts/Fraunces-VariableFont_SOFT\,WONK\,opsz\,wght.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Barlow";
+    src: url("/fonts/Barlow-SemiBold.ttf") format("truetype");
+    font-weight: 600;
+}
