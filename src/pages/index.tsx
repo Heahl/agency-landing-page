@@ -175,8 +175,8 @@ export default function Home() {
               </h2>
               <p className="text-center font-barlow text-2xl leading-normal text-dark-grayish-blue md:text-start">
                 Using a collaborative formula of designers, researchers,
-                photographers, videographers, and copywriters, we'll build and
-                extend your brand in digital places.
+                photographers, videographers, and copywriters, we&apos;ll build
+                and extend your brand in digital places.
               </p>
               <div
                 className="relative flex translate-x-2 flex-col items-center"
@@ -218,8 +218,8 @@ export default function Home() {
                 </h2>
                 <p className="text-center font-barlow text-2xl leading-relaxed text-graphic-design-text">
                   Great design makes you memorable. We deliver artwork that
-                  underscores your brand message and captures potential clients'
-                  attention.
+                  underscores your brand message and captures potential
+                  clients&apos; attention.
                 </p>
               </div>
             </div>
@@ -294,8 +294,9 @@ export default function Home() {
                 className="rounded-full"
               />
               <p className="text-center font-barlow text-2xl leading-relaxed text-dark-grayish-blue">
-                Sunnyside's enthusiasm coupled with their keen interest in our
-                brand's success made it a satisfying and enjoyable experience.
+                Sunnyside&apos;s enthusiasm coupled with their keen interest in
+                our brand&apos;s success made it a satisfying and enjoyable
+                experience.
               </p>
               <div className="flex flex-col items-center justify-center gap-4">
                 <h2 className="text-center font-fraunces text-2xl font-bold text-very-dark-desaturated-blue">
