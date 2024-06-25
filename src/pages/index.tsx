@@ -145,7 +145,7 @@ export default function Home() {
                 <button className="z-10 font-fraunces text-xl font-bold">
                   LEARN MORE
                 </button>
-                {standOutHover ? (
+                {transformHover ? (
                   <div className="absolute bottom-0 h-3 w-40 rounded-full bg-yellow" />
                 ) : (
                   <div className="absolute bottom-0 h-3 w-40 rounded-full bg-yellow/40" />
